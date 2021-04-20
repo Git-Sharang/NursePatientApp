@@ -4,8 +4,8 @@ The clinical application for the nurse-patient with the NodeJs, Express, MongoDB
 
 # To Run the backend
 
-npm ci
+> npm ci
 
-npm start
+> npm start
 
 and then start the frontend
